@@ -1,9 +1,10 @@
 .table {
    width: 400px;
    height: 300px;
+   
 
    /* TODO: Add part of your solution here */
-   
+   background: linear-gradient(to bottom, #79df04, #206a01);
 }
 
 .card-red {
@@ -22,6 +23,7 @@
    line-height: 160px;
    text-align: center;
    font-size: 80px;
+   box-shadow: 3px 3px 5px rgba(0,0,0,0.5);
 
    /* TODO: Add part of your solution here */
 
